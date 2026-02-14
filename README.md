@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 Hola, soy **Jesus Alveiro Monsalve Z (Monjez)**.<br><br>🚀 **Ingeniero Electrónico (9° Sem) & Backend Developer.** Fusiono el rigor lógico del hardware con la agilidad y escalabilidad del software moderno.<br><br>🔭 Actualmente **Líder Técnico** en el desarrollo de **IPASS** (SaaS), orquestando arquitecturas multi-bot (+20 bots/instancia), integraciones con **OpenAI** y sistemas de reconocimiento facial.<br><br>💡 **Filosofía:** Mi formación técnica y autodidacta me permite adaptarme a cualquier stack. Me especializo en resolver problemas complejos de infraestructura (AWS/Docker) y optimización de rendimiento.<br><br>⚡ **Dato curioso:** Cuando no estoy entre terminales o circuitos, recargo energías con buen **Rock Clásico** 🎸.
 
 
